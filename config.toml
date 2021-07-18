@@ -1,5 +1,8 @@
+simple_val = 3
+
 [general]
 use_rest=true
+tmp_dir="/tmp"
 
-
-[example.tex]
+[example]
+variables=["title", "author", "date"]

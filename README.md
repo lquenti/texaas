@@ -3,4 +3,4 @@
 
 ## A PDF Templating Microservice powered by LaTeX
 
-More Coming #100daysofcode
+More Coming
