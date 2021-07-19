@@ -1,8 +1,12 @@
-simple_val = 3
-
 [general]
 use_rest=true
-tmp_dir="/tmp"
+# TODO: Make naming more consistent
+template_path="tex_templates"
+tmp_dir="/tmp/texaas"
+
+tex_compiler="pdftex"
+tex_args=""
+
 
 [example]
 variables=["title", "author", "date"]
